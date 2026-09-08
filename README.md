@@ -104,19 +104,6 @@ Currently building hands-on projects and lab write-ups.
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kelian-DeMoura&show_icons=true&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelian-DeMoura&layout=compact&hide_border=true&title_color=3178C6&text_color=c9d1d9&bg_color=0d1117" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelian-DeMoura&hide_border=true&background=0D1117&ring=3178C6&fire=3178C6&currStreakLabel=3178C6" />
-
-</div>
-
-<br/>
-
 ## Contribution Activity
 
 <div align="center">
