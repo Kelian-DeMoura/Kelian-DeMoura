@@ -93,6 +93,7 @@ Currently building hands-on projects and lab write-ups.
 
 | Project | Description | Status | Link |
 |---|---|---|---|
+| **Portfolio Website** | Personal portfolio site, hosted on AWS S3 (KMS-encrypted), served via CloudFront with Origin Access Control | ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) | [Repo](https://github.com/Kelian-DeMoura/portfolio-aws) |
 
 <br/>
 
